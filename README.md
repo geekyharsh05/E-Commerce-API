@@ -5,7 +5,7 @@ This project is a Node.js serverless backend for an E-commerce platform, built u
 # Tech Stack Used
 
 - Node.js 
-- Aircode Framework
+- Aircode 
 
 ## API Endpoints
 
